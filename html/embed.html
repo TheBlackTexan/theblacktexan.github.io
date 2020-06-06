@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mak</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <webview id="webview" src="https://mak.ink"></webview>
+    <div id="find-box">
+        <input type="text" id="find-text" placeholder="Find in page">
+    </div>
+    <div id="dialog-box">
+        <div id="dialog-box-text">Example dialog text</div>
+        <input type="text" id="dialog-box-input">
+        <button class="dialog-box-button" id="dialog-box-cancel">Cancel</button>
+        <button class="dialog-box-button" id="dialog-box-ok">OK</button>
+    </div>
+    <script src="../js/embed.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker
+                .register('../app/sw.js')
+                .then(function() {
+                    console.log("Service Worker Registered");
+                });
+        }
+    </script>
+</body>
+
+</html>
