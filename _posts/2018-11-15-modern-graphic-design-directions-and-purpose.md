@@ -4,6 +4,7 @@ title: 'Modern Graphic Design - Directions and Purpose'
 tags: [Design, Tips]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/19.jpg
+featured: true
 author: jarrett
 
 ---
