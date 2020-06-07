@@ -16,3 +16,12 @@ nancy:
   picture: /assets/images/nancy.jpg
   facebook: False
   twitter: justgoodthemes
+Jarrett:
+  username: Jarrett
+  name: Jarrett Johnson
+  url_full: False
+  url: False
+  bio: Jarrett is a life-long Houston Resident.
+  picture: /assets/images/nancy.jpg
+  facebook: False
+  twitter: BornJett
