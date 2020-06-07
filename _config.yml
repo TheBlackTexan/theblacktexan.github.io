@@ -18,15 +18,15 @@ contact_page_description: "Forma theme comes with a contact form built-in. You c
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
-facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
+twitter: 'TexanBlack'
+facebook: False
+github: False
+codepen: False
+dribbble: False
+medium: False
+instagram: False
+pinterest: False
+linkedin: False
 
 # Navigation
 navigation:
