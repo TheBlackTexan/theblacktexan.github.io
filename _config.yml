@@ -2,10 +2,10 @@
 name: 'The Black Texan'
 description: 'All things Black. All things Texan.'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+site_description: 'The Black Texan is a site devoted to the black experience in Texas.'
 logo: 'assets/images/unnamed.gif'
 favicon: 'assets/images/faicon.ico'
-baseurl: 
+baseurl:
 production_url: https://blacktexan.com/
 disqus: 'the-black-texan'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
