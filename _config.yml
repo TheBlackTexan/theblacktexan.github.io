@@ -31,11 +31,11 @@ linkedin: False
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide
   - text: Contact Me
-    url: /contact/
+    url: /contact
 
 # Required Plugins
 plugins_dir:
