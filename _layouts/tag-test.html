@@ -4,7 +4,7 @@ tag: 'tag-template'
 ---
 <div id="content" class="site-content">
     <main id="main" class="site-main inner">
-<div class="post">
+<div id="post-wrapper" class="post-wrapper">
     <header class="page-header"><h1>Tag: {{ page.tag }}</h1></header>
 <ul>
 {% for post in site.tags[page.tag] %}
