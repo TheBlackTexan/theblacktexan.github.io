@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
 title: "Tag: Pizza"
 tag: Pizza
 ---
