@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Modern Graphic Design - Directions and Purpose'
-tags: [Design, Tips]
+tags: [Design, Tips, Pizza]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/19.jpg
 featured: true
