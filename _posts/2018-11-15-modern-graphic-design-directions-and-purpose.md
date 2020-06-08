@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Modern Graphic Design - Directions and Purpose'
-tags: [Design, Tips, Pizza]
-featured_image_thumbnail: 
+tags: [Design, Tips, Pizza, Journal]
+featured_image_thumbnail: null
 featured_image: assets/images/posts/2018/19.jpg
 featured: true
 author: jarrett
-
+modified: 2020-06-08T15:46:29-05:00
 ---
 
 **A graphic designer** is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. 
