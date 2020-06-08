@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: tag-test
 title: "Tag: Pizza"
 tag: Pizza
 ---
