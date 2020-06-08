@@ -1,5 +1,5 @@
 ---
-layout: tagpage
-title: "Tag: hololens"
-tag: hololens
+layout: default
+title: "Tag: Pizza"
+tag: Pizza
 ---
