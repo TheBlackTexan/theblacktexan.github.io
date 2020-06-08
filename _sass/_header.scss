@@ -85,6 +85,22 @@
     width: 40px;
 }
 
+.menu-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-items {
+  display: inline;
+}
+
+.menu-links {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
 #show-sidebar,
 #show-search {
     background-color: #fff;
