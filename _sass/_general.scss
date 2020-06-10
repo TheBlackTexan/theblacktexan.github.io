@@ -115,6 +115,7 @@ blockquote {
     padding: 1.875em 30px 1.25em 45px;
     position: relative;
     text-align: center;
+    border-radius: 5px;
 
     &:before {
         background-color: $color-accent;
@@ -127,6 +128,7 @@ blockquote {
         top: 15px;
         width: 100%;
         z-index: -1;
+        border-radius: 5px;
     }
 
     p {
@@ -730,6 +732,7 @@ blockquote.alignright {
 .contact-form {
     box-sizing: border-box;
     margin-bottom: 3.33333em;
+    border-radius: 5px;
 }
 
 .contact-form input[type=email], .contact-form input[type=text], .contact-form input[type=url] {
