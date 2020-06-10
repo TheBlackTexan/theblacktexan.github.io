@@ -106,17 +106,20 @@ ul.menu-bar li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+    border-bottom: none;
 }
 
 ul.menu-bar li a:hover:not(.active) {
     background-color: $color-accent;
     color: $black;
     text-decoration: none;
+    border-bottom: none;
 }
 
 ul.menu-bar li a.active {
     background-color: $color-accent;
     text-decoration: none;
+    border-bottom: none;
 }
 
 ul.menu-bar li.right {
