@@ -701,9 +701,16 @@ blockquote.alignright {
     z-index: 1;
 }
 
+.featured-next {
+    border-radius: 0px 0px 5px 0px;
+}
+
+.featured-prev {
+    border-radius: 0px 0px 0px 5px;
+}
+
 .slick-arrow:hover {
     background-color: $color-accent;
-    border-radius: 0px 0px 5px 5px;
 }
 
 .slick-next {
