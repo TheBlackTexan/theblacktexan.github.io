@@ -87,13 +87,13 @@
 }
 
 ul.menu-bar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: $gray-dark;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: $gray-dark;
     text-decoration: none;
-    max-width: 120%;
+    border-radius: 5px;
 }
 
 ul.menu-bar li {
