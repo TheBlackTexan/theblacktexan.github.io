@@ -695,6 +695,10 @@ blockquote.alignright {
     z-index: 1;
 }
 
+.slick-arrow:hover {
+    background-color: $color-accent;
+}
+
 .slick-next {
     right: 15px;
 }
