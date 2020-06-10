@@ -1,5 +1,5 @@
 ---
 layout: tag-test
 title: "Latest Reviews"
-tag: reviews
+tag: review
 ---
