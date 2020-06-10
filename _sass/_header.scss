@@ -113,7 +113,7 @@ ul.menu-bar li a:hover:not(.active) {
     background-color: $color-accent;
     color: $black;
     text-decoration: none;
-    border-bottom: none;
+    border: 3px $black;
 }
 
 ul.menu-bar li a.active {
@@ -133,15 +133,6 @@ ul.menu-bar li.right {
     ul.menu-bar li.hide-bar {display: none; visibility: hidden}
 }
 
-.menu-items {
-  display: inline;
-}
-
-.menu-links {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
 
 #show-sidebar,
 #show-search {
