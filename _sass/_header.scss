@@ -127,7 +127,7 @@ ul.menu-bar li.right {
 @media screen and (max-width: 600px) {
   ul.menu-bar li.right, 
   ul.menu-bar li {float: none;}
-    ul.menu-bar li.hide-bar {visibility: hidden}
+    ul.menu-bar li.hide-bar {display: none; visibility: hidden}
 }
 
 .menu-items {
