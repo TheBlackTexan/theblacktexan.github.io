@@ -3,7 +3,7 @@ name: 'The Black Texan'
 description: 'All things Black. All things Texan.'
 # Sidebar about text
 site_description: 'All things Black. All things Texan. The Black Texan is a site devoted to chronicling and uplifting the black experience in Texas.'
-logo: 'assets/images/logo/website-logo.png'
+logo: 'assets/images/logo/website-logo.svg'
 favicon: 'assets/images/favicon/faicon.ico'
 baseurl:
 production_url: https://blacktexan.com/
