@@ -93,6 +93,7 @@ ul.menu-bar {
   overflow: hidden;
   background-color: $gray-dark;
     text-decoration: none;
+    max-width: 120%;
 }
 
 ul.menu-bar li {
@@ -129,7 +130,7 @@ ul.menu-bar li.right {
 
 @media screen and (max-width: 600px) {
   ul.menu-bar li.right, 
-  ul.menu-bar li {float: none;}
+  ul.menu-bar li {float: none; max-width: 100%;}
     ul.menu-bar li.hide-bar {display: none; visibility: hidden}
 }
 
