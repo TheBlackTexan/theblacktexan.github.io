@@ -118,9 +118,9 @@ blockquote {
     border-radius: 5px;
 
     &:before {
-        background-color: $color-accent;
-        border-bottom: 2px solid $color-accent;
-        border-right: 2px solid $color-accent;
+        background-color: $gray-light;
+        border-bottom: 2px solid $gray-light;
+        border-right: 2px solid $gray-light;
         content: "";
         height: 100%;
         left: 15px;
