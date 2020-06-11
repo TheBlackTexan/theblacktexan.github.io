@@ -28,7 +28,17 @@
     padding-bottom: 20px;
 }
 
+#circlelogosvg {
+    fill: $color-accent;
+}
 
+#texanlogot,
+#texanlogoe,
+#texanlogox,
+#texanlogoa,
+#texanlogon {
+    fill: $texan-logo-color;
+}
 
 .site-title {
     font-size: 24px;
