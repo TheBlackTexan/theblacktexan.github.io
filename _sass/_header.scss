@@ -28,8 +28,12 @@
     padding-bottom: 20px;
 }
 
+@function random_element($elements...) {
+  @return nth($elements, random(length($elements)))
+}
+
 #circlelogosvg {
-    fill: $color-accent;
+    fill: random_element('#4D2A22', '#5E372E', '#714137', '#B26634', '#A15C33', '#6E381F', '#002868', '$color-accent');
 }
 
 #texanlogot,
