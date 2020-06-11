@@ -763,6 +763,10 @@ blockquote.alignright {
     float: none;
 }
 
-.comment-inside {
+.comment-inside,
+.nav-thumb,
+.avatar-container,
+.author-info,
+.post-thumbnail {
     border-radius: 5px;
 }
