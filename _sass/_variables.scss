@@ -3,12 +3,8 @@ $font-primary: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
 $font-secondary: "Cousine", "Courier New", Courier, monospace;
 $font-logo: 'Manrope', sans-serif;
 
-@function random_element($elements...) {
-  @return nth($elements, random(length($elements)))
-}
-
 // Colors
-$color-accent: random_element('#966b60','#4D2A22', '#5E372E', '#714137', '#B26634', '#A15C33', '#6E381F', '#002868');
+$color-accent: #966b60;
 $black: #111;
 $gray-dark: #333;
 $gray: #999;
