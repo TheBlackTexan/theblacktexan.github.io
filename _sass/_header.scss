@@ -28,12 +28,14 @@
     padding-bottom: 20px;
 }
 
-@function random_element($elements...) {
-  @return nth($elements, random(length($elements)))
-}
+<script>
+var colors = ['#4D2A22', '#5E372E', '#714137', '#B26634', '#A15C33', '#6E381F', '#002868'];
+var random_color = colors[Math.floor(Math.random() * colors.length)];
+$('#circlelogosvg').css('fill', random_color);
+</script>
 
 #circlelogosvg {
-    fill: random_element($skin-tone-1, $skin-tone-2, $skin-tone-3, $skin-tone-4, $skin-tone-5, $skin-tone-6, $flag-tone-blue, $color-accent);
+    fill: $color-accent;
 }
 
 #texanlogot,
