@@ -35,7 +35,7 @@ navigation:
   - text: Articles
     url: /#main
   - text: Reviews
-    url: /review
+    url: /tag/review
   - text: Contact
     url: /contact
 
