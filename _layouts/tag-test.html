@@ -4,16 +4,16 @@ tag: 'tag-template'
 ---
 <div id="content" class="site-content">
     <main id="main" class="site-main inner">
-<div id="post-wrapper" class="post-wrapper">
-    <header class="page-header"><h1>Tag: {{ page.tag }}</h1></header>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
-{% endfor %}
-</ul>
-</div>
-        </main><!-- .site-main -->
+        <div id="post-wrapper" class="post-wrapper">
+             <header class="page-header"><h1>Tag: {{ page.tag }}</h1></header>
+        <ul>
+            {% for post in site.tags[page.tag] %}
+             <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+            {{ post.description }}
+             </li>
+        {% endfor %}
+        </ul>
+        </div>
+    </main><!-- .site-main -->
 </div><!-- .site-content -->
 <hr>
