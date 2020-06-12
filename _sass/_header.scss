@@ -104,6 +104,10 @@
     width: 40px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 ul.menu-bar {
     list-style-type: none;
     margin: 0;
