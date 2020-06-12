@@ -3,7 +3,7 @@ layout: post
 title: 'The History of Visual Communication'
 tags: [Design, Tips]
 featured_image_thumbnail: 
-featured_image: assets/images/posts/2018/2.jpg
+featured_image: assets/images/posts/2020/2.jpg
 featured: true
 hidden: true
 author: daniel
@@ -15,7 +15,7 @@ author: daniel
 
 Communication design can also refer to a systems-based approach, in which the totality of media and messages within a culture or organization are designed as a single integrated process rather than a series of discrete efforts. This is done through communication channels that aim to inform and attract the attention of the people you are focusing your skills on. Design skills must be tailored to fit to different cultures of people, while maintaining pleasurable visual design. These are all important pieces of information to add to a media communications kit to get the best results.
 
-![](assets/images/posts/2018/21.jpg#wide)
+![](assets/images/posts/2020/21.jpg#wide)
 
 >“Don’t design for everyone. It’s impossible. All you end up doing is designing something that makes everyone unhappy.”
 
