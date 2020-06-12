@@ -3,7 +3,7 @@ layout: post
 title:  "How To Start Learning Blockchain Development"
 tags: [ Tips, Development  ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/3.jpg
+featured_image: assets/images/posts/2020/3.jpg
 featured: true
 author: nancy
 ---
