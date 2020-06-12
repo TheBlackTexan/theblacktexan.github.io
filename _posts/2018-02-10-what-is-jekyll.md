@@ -3,7 +3,7 @@ layout: post
 title:  "What is Jekyll?"
 tags: [ Jekyll, Development ]
 featured_image_thumbnail: 
-featured_image: assets/images/posts/2018/9.jpg
+featured_image: assets/images/posts/2020/9.jpg
 author: nancy
 ---
 
