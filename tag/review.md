@@ -1,5 +1,5 @@
 ---
-layout: tag-test
+layout: tag
 title: "Latest Reviews"
 tag: review
 ---
