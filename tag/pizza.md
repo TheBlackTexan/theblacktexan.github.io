@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "pizza posts"
+title: "Posts Tagged Pizza"
 tag: pizza
 ---
   
