@@ -33,7 +33,7 @@ navigation:
   - text: About
     url: /about
   - text: Articles
-    url: /#articles
+    url: /#main
   - text: Reviews
     url: /review
   - text: Contact
