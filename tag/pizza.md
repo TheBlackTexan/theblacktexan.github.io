@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "All about Pizza"
+title: "pizza posts"
 tag: pizza
 ---
