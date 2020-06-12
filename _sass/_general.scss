@@ -374,13 +374,13 @@ input[type="reset"]:active {
 
 /* Text selection */
 ::-moz-selection {
-    background: $yellow;
+    background: $color-accent;
     color: $black;
     text-shadow: none;
 }
 
 ::selection {
-    background: $yellow;
+    background: $color-accent;
     color: $black;
     text-shadow: none;
 }
