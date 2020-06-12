@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "design posts"
+title: "Posts Tagged Design"
 tag: design
 ---
 
