@@ -3,7 +3,7 @@ layout: post
 title: 'What Is Photography and What It Means To Me'
 tags: [Photography, Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/15.jpeg
+featured_image: assets/images/posts/2020/15.jpg
 author: daniel
 
 ---
@@ -20,7 +20,7 @@ Photography is employed in many fields of science, manufacturing *(e.g. photolit
 
 The first flexible photographic roll film was marketed by George Eastman in 1885, but this original "film" was actually a coating on a paper base. As part of the processing, the image-bearing layer was stripped from the paper and transferred to a hardened gelatin support. The first transparent plastic roll film followed in 1889. It was made from highly flammable nitrocellulose ("celluloid"), now usually called "nitrate film".
 
-![](assets/images/posts/2018/1.jpg#wide)
+![](assets/images/posts/2020/1.jpg#wide)
 
 Although cellulose acetate or "safety film" had been introduced by [Kodak](https://en.wikipedia.org/wiki/Eastman_Kodak) in 1908, at first it found only a few special applications as an alternative to the hazardous nitrate film, which had the advantages of being considerably tougher, slightly more transparent, and cheaper. The changeover was not completed for X-ray films until 1933, and although safety film was always used for 16 mm and 8 mm home movies, nitrate film remained standard for theatrical 35 mm motion pictures until it was finally discontinued in 1951.
 
