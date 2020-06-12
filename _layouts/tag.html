@@ -15,5 +15,7 @@ class: 'tag-template'
         <div id="post-wrapper" class="post-wrapper">
             {% for post in paginator.posts %}{% include postbox.html %}{% endfor %}
         </div><!-- .post-wrapper -->
+        <!-- Pagination-->
+        {% include pagination.html %}
     </main><!-- .site-main -->
 </div><!-- .site-content -->
