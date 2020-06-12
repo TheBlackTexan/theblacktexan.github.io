@@ -3,7 +3,7 @@ layout: post
 title: 'Modern Graphic Design - Directions and Purpose'
 tags: [design, tips, pizza, journal]
 featured_image_thumbnail: null
-featured_image: assets/images/posts/2018/19.jpg
+featured_image: assets/images/posts/2020/19.jpg
 featured: true
 author: jarrett
 modified: 2020-06-08T15:50:49-05:00
@@ -15,7 +15,7 @@ modified: 2020-06-08T15:50:49-05:00
 
 They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer’s job is to present information in a way that is both accessible and memorable.
 
-![](assets/images/posts/2018/18.jpg#wide)
+![](assets/images/posts/2018/20.jpg#wide)
 
 >I like it to be visually powerful, intellectually elegant, and above all, timeless.
 <cite>Massimo Vignelli</cite>
