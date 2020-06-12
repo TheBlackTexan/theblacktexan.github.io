@@ -3,7 +3,7 @@ layout: post
 title:  "Options for creating a new site with Jekyll"
 tags: [ Jekyll, Tips, Development  ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/10.jpg
+featured_image: assets/images/posts/2020/10.jpg
 author: nancy
 ---
 
