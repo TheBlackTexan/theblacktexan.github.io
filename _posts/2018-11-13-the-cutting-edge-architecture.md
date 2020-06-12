@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Cutting Edge Architecture'
-tags: [Architecture, Design]
+tags: [architecture, design]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/14.jpg
 author: nancy
