@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "All about Design"
+title: "design posts"
 tag: design
 ---
