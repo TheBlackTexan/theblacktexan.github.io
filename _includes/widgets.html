@@ -36,3 +36,10 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
     </div>
 </section>
 {% endif %}
+
+{% if site.twitter %}
+<section class="widget widget-text">
+    <h2 class="widget-title">Social</h2>
+    <a href="https://twitter.com/TexasBlack?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @TexasBlack</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>    
+{% endif %}
