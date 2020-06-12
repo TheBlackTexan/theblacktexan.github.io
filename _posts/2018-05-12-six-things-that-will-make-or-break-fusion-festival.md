@@ -3,7 +3,7 @@ layout: post
 title: 'Seven Things That Will Make Or Break Fusion Festival'
 tags: [Music, Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/5.jpg
+featured_image: assets/images/posts/2020/5.jpg
 author: nancy
 ---
 
