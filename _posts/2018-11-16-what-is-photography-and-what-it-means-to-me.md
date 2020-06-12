@@ -3,7 +3,7 @@ layout: post
 title: 'What Is Photography and What It Means To Me'
 tags: [Photography, Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/15.jpg
+featured_image: assets/images/posts/2020/14.jpg
 author: daniel
 
 ---
