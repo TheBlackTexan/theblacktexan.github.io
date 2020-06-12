@@ -14,7 +14,7 @@ ga_analytics: 'UA-168796866-1'
 
 # Contact form setings
 email: contact@blacktexan.com
-contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+contact_page_description: False
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
