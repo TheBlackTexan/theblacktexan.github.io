@@ -5,6 +5,11 @@
 </section>
 {% endif %}
 
+<section class="widget">
+    <h2 class="widget-title">Social</h2>
+    <a href="https://twitter.com/TexasBlack?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @TexasBlack</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>   
+
 <!-- Create a sorted array of tags -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor
 %}{%
@@ -38,8 +43,5 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
 {% endif %}
 
 
-<section class="widget">
-    <h2 class="widget-title">Social</h2>
-    <a href="https://twitter.com/TexasBlack?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @TexasBlack</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>    
+ 
 
