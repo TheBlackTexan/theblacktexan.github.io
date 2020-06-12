@@ -3,7 +3,7 @@ layout: post
 title:  "Advanced Markdown tips"
 tags: [ Jekyll, review, Tips ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/7.jpg
+featured_image: assets/images/posts/2020/7.jpg
 author: daniel
 ---
 
