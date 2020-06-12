@@ -32,8 +32,10 @@ linkedin: False
 navigation:
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Articles
+    url: /#articles
+  - text: Reviews
+    url: /review
   - text: Contact
     url: /contact
 
