@@ -3,7 +3,7 @@ layout: post
 title:  "A Week With the Apple Watch"
 tags: [ tips, minimal, review, pizza ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/12.jpg
+featured_image: assets/images/posts/2020/12.jpg
 author: daniel
 ---
 
