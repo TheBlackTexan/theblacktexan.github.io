@@ -10,11 +10,11 @@ class: 'author-template'
         {% for author in site.data.authors %}
         {% if author[1].username == page.author %}
         <header class="page-header">
-            <h1 class="page-title">
+         <!--   <h1 class="page-title">
                 {% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{%
                 else %}{{ paginator.total_posts }} posts{% endif %} by
                 <span class="vcard highlight">{{ author[1].name }}</span>
-            </h1>
+            </h1> -->
             <div class="author-box">
                 <div class="author-info">
                     {% if author[1].picture %}
