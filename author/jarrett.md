@@ -1,5 +1,5 @@
 ---
 layout: author
 author: jarrett
-title: "Author"
+title: "Jarrett with The Black Texan"
 ---
