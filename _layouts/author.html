@@ -55,8 +55,8 @@ class: 'author-template'
         {% endfor %}
         <!-- /author -->
         <div id="post-wrapper" class="post-wrapper">
-        {% for post in site.data.authors[page.author] %}
-            {% include postbox.html %}
+        {% assign filtered_posts = site.posts | where: 'author', page.author %}
+  {% for post in filtered_posts %}
         {% endfor %}
         </div><!-- .post-wrapper -->
     </main><!-- .site-main -->
