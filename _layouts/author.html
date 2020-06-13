@@ -55,7 +55,7 @@ class: 'author-template'
         {% endfor %}
         <!-- /author -->
         <div id="post-wrapper" class="post-wrapper">
-        {% for post in paginator.posts %}
+        {% for post in site.authors[page.author] %}
             {% include postbox.html %}
         {% endfor %}
         </div><!-- .post-wrapper -->
