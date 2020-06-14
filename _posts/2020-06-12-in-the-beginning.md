@@ -15,10 +15,8 @@ modified: 2020-06-12T15:50:49-05:00
 
 <!--more-->
 
-![](assets/images/posts/2020/Flag_of_Texas.png#left)
+I'm not the first black man in Texas. Mustafa Azemmouri is widely considered to be the first person of African descent to step foot on this land but neither he nor I was the last. This land is home to [Queen Beys](https://www.instagram.com/beyonce/) and [Congresswomen](https://history.house.gov/People/Detail/16031), [Heavyweight Champions](https://www.biography.com/athlete/jack-johnson) and [Inventors](https://lemelson.mit.edu/resources/otis-boykin), [Pilots](https://www.pbs.org/wgbh/americanexperience/features/flygirls-bessie-coleman/) and [Composers](https://www.independent.co.uk/news/obituaries/barry-white-36718.html) and innumerable more. Each one of these has their own story, their own struggles and triumphs, their own perspectives. It's the goal of this site to share these stories, not just the ones from our rich and great history both those ones happening among us in the present.
 
-Now I'm not the first black man in Texas. Mustafa Azemmouri is widely considered to be the first person of African descent to step foot on this land but neither he nor I was the last. This land is home to [Queen Beys](https://www.instagram.com/beyonce/) and [Congresswomen](https://history.house.gov/People/Detail/16031), [Heavyweight Champions](https://www.biography.com/athlete/jack-johnson) and [Inventors](https://lemelson.mit.edu/resources/otis-boykin), [Pilots](https://www.pbs.org/wgbh/americanexperience/features/flygirls-bessie-coleman/) and [Composers](https://www.independent.co.uk/news/obituaries/barry-white-36718.html) and innumerable more. Each one of these has their own story, their own struggles and triumphs, their own perspectives. It's the goal of this site to share these stories, not just the ones from our rich and great history both those ones happening among us in the present.
-
-![](assets/images/logo/main-logo-brand.svg#wide)
+![](assets/images/logo/main-logo-brand.svg#left)
 
 That's what The Black Texan is: All things Black, All things Texan. It isn't any one person or persons, it's not just a specific place in or of the lone star state. The Black Texan is a site dedicated to sharing, chronicling, and uplifting, and the Black experience in Texas; all of it. From the Ensemble in Houston, to Dallas' Smokey John's, from Six Square in Austin to the people all over the state fighting against racism and working towards equality, The Black Texan will be there.
