@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/logo/FInal-Main-Logo-Profile.png
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+<blockquote class="alignright">“To be Black, to be Texan, I wouldn't trade for anything in the world. I thank God for both."</blockquote>
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+**In the beginning** I wanted to write about Texas. I've always wanted to write about my home. Known throughout the world as the home of cowboys, 10 gallon hats and the Alamo, I know Texas to be much more: awe-inspiring landscapes; diverse and delicious foods: rich in culture and pride; and beautiful people from all walks of life. I set out to start a blog dedicated to illuminating all to the wider Texan experience, the Texas I know and love. As time went on, I found myself just as motivated to write about my other love: Melanin; Brothers and Sisters; my Niggas; African-Americans, Black People. To be Black, to be Texan, I wouldn't trade for anything in the world. I thank God for both.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+<!--more-->
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+![](assets/images/posts/2020/Flag_of_Texas.png#left)
 
-*Thank You for reading!*
+Now I'm not the first black man in Texas. Mustafa Azemmouri is widely considered to be the first person of African descent to step foot on this land but neither he nor I was the last. This land is home to [Queen Beys](https://www.instagram.com/beyonce/) and [Congresswomen](https://history.house.gov/People/Detail/16031), [Heavyweight Champions](https://www.biography.com/athlete/jack-johnson) and [Inventors](https://lemelson.mit.edu/resources/otis-boykin), [Pilots](https://www.pbs.org/wgbh/americanexperience/features/flygirls-bessie-coleman/) and [Composers](https://www.independent.co.uk/news/obituaries/barry-white-36718.html) and innumerable more. Each one of these has their own story, their own struggles and triumphs, their own perspectives. It's the goal of this site to share these stories, not just the ones from our rich and great history both those ones happening among us in the present.
+
+![](assets/images/logo/main-logo-brand.svg#wide)
+
+That's what The Black Texan is: All things Black, All things Texan. It isn't any one person or persons, it's not just a specific place in or of the lone star state. The Black Texan is a site dedicated to sharing, chronicling, and uplifting, and the Black experience in Texas; all of it. From the Ensemble in Houston, to Dallas' Smokey John's, from Six Square in Austin to the people all over the state fighting against racism and working towards equality, The Black Texan will be there.
