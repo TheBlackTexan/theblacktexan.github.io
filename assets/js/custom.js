@@ -16,11 +16,6 @@
 			e.preventDefault();
 		});
 
-		$(document).ready(function() {
-  $("[data-toggle]").click(function() {
-    var toggle_el = $(this).data("toggle");
-    $(toggle_el).toggleClass("open-sidebar");
-  });
 			$(document).ready(function() {
 
 			$(".swipe-area").on( "swipeleft swiperight", function( e ) {
@@ -32,8 +27,6 @@
 			searchField.clear();
 			e.preventDefault();
 		});
-});
-
 		
 		// Featured carousel
 		$featured.slick({
