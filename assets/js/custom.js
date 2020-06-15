@@ -24,7 +24,7 @@
      
 });
  
-$(".swipe-area").swipe({
+$("#page").swipe({
     swipeStatus:function(event, phase, direction, distance, duration, fingers)
         {
             if (phase=="move" && direction =="left") {
