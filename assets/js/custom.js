@@ -21,8 +21,18 @@
     var toggle_el = $(this).data("toggle");
     $(toggle_el).toggleClass("open-sidebar");
   });
-     
-});
+			$(document).ready(function() {
+
+			$(".swipe-area").on( "swipeleft swiperight", function( e ) {
+			$body.toggleClass('sidebar--opened');
+			e.preventDefault();
+		});
+		$('#site-overlay').on('swipeleft swiperight', function(e){
+			$body.removeClass('sidebar--opened search--opened');
+			searchField.clear();
+			e.preventDefault();
+		});
+
 
 		
 		// Featured carousel
