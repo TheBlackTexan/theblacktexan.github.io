@@ -6,7 +6,7 @@
 	$(document).ready(function() {
 
 		// Hidden sections
-		$('#show-sidebar, #hide-sidebar, #more-sidebar').on('click', function (e) {
+		$('#show-sidebar, #hide-sidebar').on('click', function (e) {
 			$body.toggleClass('sidebar--opened');
 			e.preventDefault();
 		});
@@ -15,7 +15,7 @@
 			searchField.clear();
 			e.preventDefault();
 		});
-		
+
 		// Featured carousel
 		$featured.slick({
 			autoplay: true,
