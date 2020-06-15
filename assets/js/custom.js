@@ -16,47 +16,27 @@
 			e.preventDefault();
 		});
 
-		var dropzone = document.getElementById('page'),
-    draggable = document.getElementById('sidebar'),
-    leftOffset,
-    leftX,
-    overallMovement;
-
-
-function onTouchStart(event) {
-  var $this = $('#sidebar');
-  var offset = $this.offset();
-  var width = $this.outerWidth();
-  var height = $this.outerHeight();
-  leftX = offset.left;
-  var touches = event.changedTouches;
-  leftOffset = touches[0].clientX - leftX;
-}
-
-function onTouchMove(event) {
-  event.preventDefault();
-  var $this = $('#sidebar');
-  var touches = event.changedTouches;
-  var leftMovement = touches[0].clientX - leftOffset;
-  $this.css({'position': 'absolute',
-             'left': leftMovement});
-  overallMovement = Math.abs(leftMovement - leftX);
-  $('p.info').text(overallMovement + ' / 200 pixels required for dismissal' );
-  if (overallMovement > 199) {
-    $this.fadeOut(200);
-  }
-}
-
-function onTouchEnd(event) {
-  if (overallMovement < 200) {
-    $('#sidebar').css({'left': leftX});
-    $('p.info').text('');
-  }
-} 
-
-draggable.addEventListener('touchstart', onTouchStart, false);
-draggable.addEventListener('touchmove', onTouchMove, false);
-draggable.addEventListener('touchend', onTouchEnd, false);
+		$(document).ready(function() {
+  $("[data-toggle]").click(function() {
+    var toggle_el = $(this).data("toggle");
+    $(toggle_el).toggleClass("open-sidebar");
+  });
+     
+});
+ 
+$(".swipe-area").swipe({
+    swipeStatus:function(event, phase, direction, distance, duration, fingers)
+        {
+            if (phase=="move" && direction =="left") {
+                 $(".container").addClass(".sidebar--opened");
+                 return false;
+            }
+            if (phase=="move" && direction =="right") {
+                 $(".container").removeClass(".sidebar--opened");
+                 return false;
+            }
+        }
+});
 		
 		// Featured carousel
 		$featured.slick({
