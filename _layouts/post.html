@@ -4,6 +4,15 @@ disqus: false
 post_class: post-template
 ---
 
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:description" content="{{content}}"/>
+<meta property="og:url" content="{{ page.url }}"/>
+<meta property="og:image" content="{{ site.baseurl }}{{ page.featured_image }}"/>
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{content}}">
+<meta name="twitter:image" content="{{ site.baseurl }}{{ page.featured_image }}">
+<meta name="twitter:card" content="summary_large_image">
+
 <div id="content" class="site-content">
     <main id="main" class="site-main inner">
         <article class="post">
