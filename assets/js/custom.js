@@ -23,19 +23,6 @@
   });
      
 });
- 
-		$(document).ready(function() {
-
-		// Hidden sections
-		$('.swipe-area').on( "swipeleft swiperight", function( e ) {
-			$body.toggleClass('sidebar--opened');
-			e.preventDefault();
-		});
-		$('#site-overlay').on('swipeleft swiperight', function(e){
-			$body.removeClass('sidebar--opened search--opened');
-			searchField.clear();
-			e.preventDefault();
-		});
 
 		
 		// Featured carousel
