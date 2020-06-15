@@ -24,19 +24,19 @@
      
 });
  
-$(".swipe-area").swipe({
-    swipeStatus:function(event, phase, direction, distance, duration, fingers)
-        {
-            if (phase=="move" && direction =="left") {
-                 $(".container").addClass(".sidebar--opened");
-                 return false;
-            }
-            if (phase=="move" && direction =="right") {
-                 $(".container").removeClass(".sidebar--opened");
-                 return false;
-            }
-        }
-});
+		$(document).ready(function() {
+
+		// Hidden sections
+		$('.swipe-area').on( "swipeleft swiperight", function( e ) {
+			$body.toggleClass('sidebar--opened');
+			e.preventDefault();
+		});
+		$('#site-overlay').on('swipeleft swiperight', function(e){
+			$body.removeClass('sidebar--opened search--opened');
+			searchField.clear();
+			e.preventDefault();
+		});
+
 		
 		// Featured carousel
 		$featured.slick({
