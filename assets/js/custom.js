@@ -32,7 +32,7 @@
 			searchField.clear();
 			e.preventDefault();
 		});
-
+});
 
 		
 		// Featured carousel
