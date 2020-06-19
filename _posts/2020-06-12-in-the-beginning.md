@@ -4,7 +4,7 @@ title: 'In The Beginning...'
 tags: [history]
 featured_image_thumbnail: null
 featured_image: assets/images/logo/FInal-Main-Logo-Profile.png
-featured: true
+featured: false
 author: jarrett
 modified: 2020-06-12T15:50:49-05:00
 ---
