@@ -2,6 +2,7 @@
 layout: page
 title: About
 featured_image: /assets/images/logo/FInal-Main-Logo-Profile.png
+logo: assets/images/logo/main-logo-brand.svg
 ---
 
 <blockquote class="alignright">“To be Black, to be Texan, I wouldn't trade for anything in the world. I thank God for both."</blockquote>

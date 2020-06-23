@@ -6,6 +6,7 @@ featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/da-5-bloods-1.jpg
 featured: true
 author: jarrett
+logo: assets/images/logo/main-logo-brand.svg
 modified: 2020-06-12T15:50:49-05:00
 ---
 

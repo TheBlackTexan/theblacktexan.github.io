@@ -6,6 +6,7 @@ featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/aisha-burns.jpg
 featured: true
 author: jarrett
+logo: assets/images/logo/bey-logo-brand.svg
 ---
 
 Artists from all over the state are creating, inspiring, and participating in protests as a reaction to the unjust killings of Black women and men across the nation. Much like the music inspired by the fight for civil rights in the sixties, the music released during this time will no doubt become linked hand in hand with memories of the movement. Check out the selections released recently below.

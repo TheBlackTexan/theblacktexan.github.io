@@ -6,6 +6,7 @@ featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/miss-juneteenth.jpg
 featured: true
 author: jarrett
+logo: assets/images/logo/main-logo-brand.svg
 ---
 
 Those who have grown up in Texas might feel as if the characters and town featured in [Miss Juneteenth](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86b91995-f66a-7401-2f12-65edff41ca55) were ripped right from their own lives; that's how lived in this film feels. Released this year on [Juneteenth](https://blacktexan.com/juneteenth-already-holiday), Fort Worth native, [Channing Godfrey Peoples'](https://www.imdb.com/name/nm1474677/) directorial debut tells the story of Turquoise, a mother striving to take care of herself and provide a future for her daughter. She sees a way to secure her daughter's future in the annual Miss Juneteenth pageant, a pageant she herself won when she was younger. Authentic to its setting, this film moves from the charmingly greasy bar Turquoise works shifts at to the prim and proper pageant world, all in the same Texas town.
