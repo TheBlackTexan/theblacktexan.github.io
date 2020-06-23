@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Juneteenth has always been a holiday'
+title: 'Juneteenth Has Always Been a Holiday'
 tags: [opinion]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/juneteenth-flag.png
-featured: true
+featured: false
 author: jarrett
 ---
 

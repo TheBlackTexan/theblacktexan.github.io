@@ -5,9 +5,49 @@
     <description>All things Black. All things Texan.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Jun 2020 17:36:45 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2020 17:36:45 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2020 19:45:42 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2020 19:45:42 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Music From the Movement</title>
+        <description>Artist from all over the state are creating, inspiring, and participating in protests as a reaction to the unjust killings of Black women and men across the nation. Much like the music inspired by the fight for civil rights in the sixties, the music released during this time will no doubt become linked hand in hand with memories of the movement. Check out the selections released recently below.
+
+</description>
+        <pubDate>Mon, 22 Jun 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/music-from-the-movement</link>
+        <guid isPermaLink="true">http://localhost:4000/music-from-the-movement</guid>
+        
+        <category>music</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Miss Juneteenth Review</title>
+        <description>Those who have grown up in Texas might feel as if the characters and town featured in Miss Juneteenth were ripped right from their own lives; that’s how lived in this film feels. Released this year on Juneteenth, Fort Worth native, Channing Godfrey Peoples’ directorial debut tells the story of Turquoise, a mother striving to take care of herself and provide a future for her daughter. She sees a way to secure her daughter’s future in the annual Miss Juneteenth pageant, a pageant she herself won when she was younger. Authentic to its setting, this film moves from the charmingly greasy bar Turquoise works shifts at to the prim and proper pageant world, all in the same Texas town.
+
+</description>
+        <pubDate>Fri, 19 Jun 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/miss-juneteenth-review</link>
+        <guid isPermaLink="true">http://localhost:4000/miss-juneteenth-review</guid>
+        
+        <category>review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Juneteenth Has Always Been a Holiday</title>
+        <description>Most Black Texans and Black Americans know this to be true, Juneteenth has been celebrated for over a century now. I personally can remember my Dad explaining to me the significance and history of the date when I was child as we grilled burgers. Like many issues my Dad had to sit me down and explain, due to them not being in Texas school books, it feels as if large parts of America (especially white Americans) are just now learning of Juneteenth. How fitting that Juneteenth is not the date commemorating when slaves were freed but when they found out. While this illuminating time and movement for change in this nation is inspiring, if I had to choose between corporations sending out tweets for Juneteenth and justice for Breonna Taylor, the choice is easy. If it’s between Aunt Jemima and holding police departments accountable for the crimes they’ve committed against the citizens they are supposed to protect, I choose accountability. If it’s between every White American knowing about Juneteenth and this nation addressing it’s foundation of racism and prejudice, let’s get to fixing this nation. Blacks want both, to be clear, but in the midst of all that’s going on...</description>
+        <pubDate>Fri, 19 Jun 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/juneteenth-already-holiday</link>
+        <guid isPermaLink="true">http://localhost:4000/juneteenth-already-holiday</guid>
+        
+        <category>opinion</category>
+        
+        
+      </item>
     
       <item>
         <title>Da 5 Bloods Review</title>
