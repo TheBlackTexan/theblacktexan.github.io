@@ -7,15 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}"/>
-<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta property="og:url" content="{{ page.url | replace:'index.html', '' | absolute_url }}"/>
-<meta property="og:image" content="{% if page.featured_image %}{{ site.url }}/{{ site.baseurl }}{{ page.featured_image }}{% else %}{{ site.url }}/assets/images/favicon/android-chrome-512x512.png{% endif %}"/>
-<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}">
-<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"
-<meta name="twitter:image" content="{% if page.featured_image %}{{ site.url }}/{{ site.baseurl }}{{ page.featured_image }}{% else %}{{ site.url }}/assets/images/favicon/android-chrome-512x512.png{% endif %}"/>
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@TexanBlack">
-{% if page.author_twitter %}<meta name="twitter:creator" content="@{{ page.author_twitter }}">{% endif %}
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+    <meta property="og:url" content="{{ page.url | replace:'index.html', '' | absolute_url }}"/>
+    <meta property="og:image" content="{% if page.featured_image %}{{ site.url }}/{{ site.baseurl }}{{ page.featured_image }}{% else %}{{ site.url }}/assets/images/favicon/android-chrome-512x512.png{% endif %}"/>
+    <meta property="og:site_name" content="The Black Texan" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"
+    <meta name="twitter:image" content="{% if page.featured_image %}{{ site.url }}/{{ site.baseurl }}{{ page.featured_image }}{% else %}{{ site.url }}/assets/images/favicon/android-chrome-512x512.png{% endif %}"/>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@TexanBlack">
+    {% if page.author_twitter %}<meta name="twitter:creator" content="@{{ page.author_twitter }}">{% endif %}
 
     {% if site.plugins_dir contains 'jekyll-seo-tag' %}
         {% include head-seo.html %}

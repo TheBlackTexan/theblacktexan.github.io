@@ -24,6 +24,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        <enclosure url="{{ site.url }}/{{ post.featured_image }}" type="image/jpeg" />
       </item>
     {% endfor %}
   </channel>
