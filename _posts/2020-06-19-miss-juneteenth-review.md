@@ -4,7 +4,7 @@ title: 'Miss Juneteenth Review'
 tags: [review]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/miss-juneteenth.jpg
-featured: true
+featured: false
 author: jarrett
 logo: assets/images/logo/main-logo-brand.svg
 ---

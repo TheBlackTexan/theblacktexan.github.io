@@ -5,9 +5,24 @@
     <description>All things Black. All things Texan.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2020 14:47:32 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2020 14:47:32 -0500</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2020 11:20:26 -0500</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2020 11:20:26 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>No One Should Come to the Cook Out This Year</title>
+        <description>Welp Texans, it’s 4th of July and we are still dealing with the spread of Covid-19, now more than ever infact. As we start our 4th of July celebrations, it is still important to heed the warnings of our state government and medical officials, those of us in the black community as we are more likely to be serriously affected by the disease due to “long-standing systemic health and social inequities”. That’s right, after years and years of inviting anyone and everyone to the “cook out”, this year it is best to keep our celebrations small.
+
+</description>
+        <pubDate>Sat, 04 Jul 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/no-cook-out-2020</link>
+        <guid isPermaLink="true">http://localhost:4000/no-cook-out-2020</guid>
+        
+        <category>covid-19</category>
+        
+        
+        <enclosure url="http://localhost:4000/assets/images/posts/2020/cookout.jpg" type="image/jpeg" />
+      </item>
     
       <item>
         <title>Harris County Judge Lina Hidalgo and Houston Mayor Sylvester Turner Deserve an Apology</title>
