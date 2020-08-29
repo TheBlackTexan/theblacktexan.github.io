@@ -4,7 +4,7 @@ title: 'Harris County Judge Lina Hidalgo and Houston Mayor Sylvester Turner Dese
 tags: [houston, covid-19, opinion]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/apology.jpg
-featured: true
+featured: false
 author: jarrett
 author_twitter: bornjett
 logo: assets/images/logo/main-logo-brand.svg

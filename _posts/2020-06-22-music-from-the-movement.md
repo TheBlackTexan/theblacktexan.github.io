@@ -4,7 +4,7 @@ title: 'Music From the Movement'
 tags: [music]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/aisha-burns.jpg
-featured: true
+featured: false
 author: jarrett
 author_twitter: bornjett
 logo: assets/images/logo/bey-logo-brand.svg
