@@ -3,7 +3,7 @@ layout: post
 title: 'Chadwick Boseman: A Super Hero'
 tags: [movies]
 featured_image_thumbnail: null
-featured_image: assets/images/posts/2020/chadwick-boseman.jpg
+featured_image: assets/images/posts/2020/chadwick-boseman-lrg.jpg
 featured: true
 author: jarrett
 logo: assets/images/logo/mono-logo-brand.svg
