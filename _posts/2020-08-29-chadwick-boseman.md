@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chadwick Boseman; A Super Hero'
+title: 'Chadwick Boseman: A Super Hero'
 tags: [movies]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/chadwick-boseman.jpg
