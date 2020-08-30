@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Da 5 Bloods Review'
-tags: [review]
+tags: [review, movies]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/da-5-bloods-1.jpg
 featured: true

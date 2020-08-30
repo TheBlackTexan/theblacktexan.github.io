@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Miss Juneteenth Review'
-tags: [review]
+tags: [review, movies]
 featured_image_thumbnail: null
 featured_image: assets/images/posts/2020/miss-juneteenth.jpg
 featured: false
